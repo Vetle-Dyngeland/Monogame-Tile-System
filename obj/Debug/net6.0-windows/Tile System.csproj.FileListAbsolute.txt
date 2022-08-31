@@ -1,0 +1,44 @@
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Tile System.exe
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Tile System.deps.json
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Tile System.runtimeconfig.json
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Tile System.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Tile System.pdb
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\obj\Debug\net6.0-windows\Tile System.csproj.AssemblyReference.cache
+C:\Game Development\Projects\Visual Studio Projects\Tile System\obj\Debug\net6.0-windows\Tile System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Game Development\Projects\Visual Studio Projects\Tile System\obj\Debug\net6.0-windows\Tile System.AssemblyInfoInputs.cache
+C:\Game Development\Projects\Visual Studio Projects\Tile System\obj\Debug\net6.0-windows\Tile System.AssemblyInfo.cs
+C:\Game Development\Projects\Visual Studio Projects\Tile System\obj\Debug\net6.0-windows\Tile System.csproj.CoreCompileInputs.cache
+C:\Game Development\Projects\Visual Studio Projects\Tile System\obj\Debug\net6.0-windows\Tile System.csproj.CopyComplete
+C:\Game Development\Projects\Visual Studio Projects\Tile System\obj\Debug\net6.0-windows\Tile System.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\obj\Debug\net6.0-windows\refint\Tile System.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\obj\Debug\net6.0-windows\Tile System.pdb
+C:\Game Development\Projects\Visual Studio Projects\Tile System\obj\Debug\net6.0-windows\Tile System.genruntimeconfig.cache
+C:\Game Development\Projects\Visual Studio Projects\Tile System\obj\Debug\net6.0-windows\ref\Tile System.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Apos.Input.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Comora.dll
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Content\Sprites\testPlayer.xnb
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Content\Fonts\Arial24.xnb
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Content\Sprites\Tiles\Tile0.xnb
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Content\Sprites\Tiles\Tile1.xnb
+C:\Game Development\Projects\Visual Studio Projects\Tile System\bin\Debug\net6.0-windows\Content\Sprites\Tiles\Tile2.xnb
