@@ -8,7 +8,6 @@ While editing levels, click left mouse to create tile, shift + left mouse to del
 
 # Other
 My first github upload.
-
 Uses the following libraries:
   -Comora
   -Apos.Input
