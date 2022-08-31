@@ -1,5 +1,5 @@
 # Monogame-Tile-System
-Simple monogame(XNA) tile system with a player and an in-built level creator
+Simple monogame(XNA) tile system with a player(for example purposes) and an in-built level creator
 
 # Controls
 Wasd to move the player.
